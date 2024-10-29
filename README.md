@@ -1,7 +1,7 @@
 # Hello, World! 🌍 I'm Muhammad Salik 👋
 
 ## 📝 About Me
-I'm a **Senior Software Engineer** with a passion for developing intuitive, user-friendly interfaces and building **robust backend systems** using **JavaScript, React, Next.js, and Node.js**. With over **5.5 years of experience**, I thrive in dynamic environments where I can tackle challenges and contribute to impactful projects.
+I'm a **Senior Software Engineer** with a passion for developing intuitive, user-friendly interfaces and building **robust backend systems** using **JavaScript, React, Next.js, and Node.js**. With over **6 years of experience**, I thrive in dynamic environments where I can tackle challenges and contribute to impactful projects.
 
 ## 💼 What I'm Up To
 - 🎉 Celebrating **5+ years** of experience in software development.
