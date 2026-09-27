@@ -4,11 +4,11 @@
 I'm a **Senior Software Engineer** with a passion for developing intuitive, user-friendly interfaces and building **robust backend systems** using **JavaScript, React, Next.js, and Node.js**. With over **6 years of experience**, I thrive in dynamic environments where I can tackle challenges and contribute to impactful projects.
 
 ## 💼 What I'm Up To
-- 🎉 Celebrating **5+ years** of experience in software development.
+- 🎉 Celebrating **7+ years** of experience in software development.
 - 🔍 Currently exploring **Next.js 14**, **Java**, and **Spring Boot** for building robust and scalable applications.
 - 🚀 Seeking opportunities to work on innovative **Frontend**, **Backend**, and **Full-stack** projects.
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - **Enhance** my expertise in **Backend technologies** and **Full-stack development**.
 - **Expand** my professional network and collaborate on open-source projects.
 
